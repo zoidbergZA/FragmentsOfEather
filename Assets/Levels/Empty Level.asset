@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a30458b0c4886584bab27005402aefc1, type: 3}
+  m_Name: Empty Level
+  m_EditorClassIdentifier: 
+  levelTime: 320
+  islandCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  debrisCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  cloudCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  enemySpawnCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  debrisPrefabs:
+  - {fileID: 184536, guid: 01052b53d797f448092574332500af87, type: 2}
+  - {fileID: 167102, guid: ceda4270b0959460ba8e2e6775e50288, type: 2}
+  - {fileID: 151950, guid: 8adc0a469fe874dea9e38363779206f3, type: 2}
+  - {fileID: 160154, guid: b71ec8bc6a6eb41089b2539b8a44d23e, type: 2}
+  - {fileID: 105644, guid: 297cc7d2142964e13b8b2d73bd7e7ff1, type: 2}
+  - {fileID: 154088, guid: 0bde390e9e5404fa0baf3440db0b5e7e, type: 2}
+  - {fileID: 108978, guid: 232bbe0a0327649388bced29a9467593, type: 2}
+  - {fileID: 177558, guid: b57f45aade1154c1e8621053152dc50c, type: 2}
+  - {fileID: 193438, guid: 84068e0d1b212476b87bd2fc02458a0a, type: 2}
+  - {fileID: 133252, guid: 4a55b3d43ed4d4e32954be13984c5ec6, type: 2}
+  - {fileID: 146560, guid: c94dc4b708f514e5b9afd5f484604770, type: 2}
+  - {fileID: 190796, guid: ad85ad8b665543d408bd3de2bff435dd, type: 2}
+  islandPrefabs:
+  - {fileID: 159808, guid: bd639a77e9d2b0a42b941651c53796bf, type: 2}
+  - {fileID: 100112, guid: f4a4798f85f43284c8b0810bf1455376, type: 2}
+  - {fileID: 155098, guid: 6c5a1cab137e90543987dd6bb3fc6ed0, type: 2}
+  cloudPrefabs:
+  - {fileID: 11494524, guid: 5c8e88ec8cb7b443b8405c37ebd9a36b, type: 2}
+  enemyPrefabs:
+  - {fileID: 11428004, guid: 57ab2c269f4044623b0a7ca02a2cfe11, type: 2}
+  - {fileID: 11454882, guid: 021e9266de7b64626a10f4ae0c920ccd, type: 2}
+  - {fileID: 11490282, guid: 15fd1c225ef464087ba3bfe609b0824c, type: 2}
+  enemyTowerPrefab: {fileID: 11474086, guid: be532285493694748b31db82fcc6e363, type: 2}

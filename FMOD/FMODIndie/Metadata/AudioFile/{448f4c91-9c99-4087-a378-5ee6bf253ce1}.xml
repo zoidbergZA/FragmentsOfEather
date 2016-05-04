@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.07.00">
+    <object class="AudioFile" id="{448f4c91-9c99-4087-a378-5ee6bf253ce1}">
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>1.7143083900226757</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/Shoot Cannon {20f83cdb-76c8-4ae6-a9ce-47be538088d9}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{6bfaf0aa-b45f-4622-a206-92cf38cf82bf}</destination>
+        </relationship>
+    </object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.07.00">
+    <object class="AudioFile" id="{0bf2fcde-e625-46c6-80f8-63212a0abfee}">
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.85716553287981856</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/harpoon hit metal {4b65e130-5384-4505-afa5-ed2512be06d3}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{6bfaf0aa-b45f-4622-a206-92cf38cf82bf}</destination>
+        </relationship>
+    </object>
+</objects>

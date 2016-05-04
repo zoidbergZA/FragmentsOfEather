@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.07.00">
+    <object class="AudioFile" id="{964549d8-6c41-4913-af14-6b184de18a92}">
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>5.1428798185941043</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/steam sound 1 {87b3c91c-39a3-4674-8ee2-cbeb3c182678}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{6bfaf0aa-b45f-4622-a206-92cf38cf82bf}</destination>
+        </relationship>
+    </object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.07.00">
+    <object class="AudioFile" id="{876ba6e4-d3f3-4644-9226-3c13abf156c4}">
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>13.714308390022676</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/Laurens Brasdorp - segment part 5 - end track {7638d3bb-cda5-4418-b1f3-6d5c56439dd7}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{6bfaf0aa-b45f-4622-a206-92cf38cf82bf}</destination>
+        </relationship>
+    </object>
+</objects>

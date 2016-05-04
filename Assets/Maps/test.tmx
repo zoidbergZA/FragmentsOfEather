@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="32" tileheight="32" nextobjectid="8">
+ <tileset firstgid="1" name="placers" tilewidth="64" tileheight="64" tilecount="2">
+  <properties>
+   <property name="type" value="island"/>
+  </properties>
+  <tile id="0">
+   <properties>
+    <property name="type" value="mainland"/>
+   </properties>
+   <image width="64" height="64" source="res/island_icon.jpg"/>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="type" value="player"/>
+   </properties>
+   <image width="64" height="64" source="res/player_icon.jpg"/>
+  </tile>
+ </tileset>
+ <objectgroup name="Object Layer 1">
+  <object id="3" gid="1" x="289" y="235" width="64" height="64"/>
+  <object id="5" gid="2" x="393" y="328" width="64" height="64"/>
+  <object id="6" x="389" y="207">
+   <polyline points="0,0 136,-104 280,-107 370,67"/>
+  </object>
+ </objectgroup>
+</map>

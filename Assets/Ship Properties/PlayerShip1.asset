@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97956dee82a08614da1a1f170f6e802c, type: 3}
+  m_Name: PlayerShip1
+  m_EditorClassIdentifier: 
+  power: 14000
+  burnRate: 1.1
+  brakePower: 22000
+  maxSpeed: 26
+  minSpeed: -10
+  turnPower: 28000
+  maxTurnRate: 44
+  bankPower: 120
+  mass: 13
+  linearDrag: 0.9
+  angularDrag: 0.7
+  bankAngle: 15

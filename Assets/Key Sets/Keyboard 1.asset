@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a76bb43eae6ffb94da462b111f5b4d7b, type: 3}
+  m_Name: Keyboard 1
+  m_EditorClassIdentifier: 
+  thrustAxis: Vertical
+  thrustAxisAlt: Vertical
+  turnAxis: Horizontal
+  turnAxisAlt: Horizontal
+  ability1: 0
+  ability1Alt: 0
+  fireHarpoon: 305
+  fireHarpoonAlt: 0
+  fireWeapon1: 0
+  fireWeapon1Alt: 0
+  fireWeapon2: 0
+  fireWeapon2Alt: 0

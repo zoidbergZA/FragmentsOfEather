@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a30458b0c4886584bab27005402aefc1, type: 3}
+  m_Name: Chiggy Level
+  m_EditorClassIdentifier: 
+  levelTime: 180
+  islandCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: .151875019
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: .487780541
+      value: .149716645
+      inSlope: .016197728
+      outSlope: .016197728
+      tangentMode: 0
+    - time: .999982715
+      value: .15062502
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  debrisCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  cloudCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: -.0518749841
+      inSlope: .412499875
+      outSlope: .412499875
+      tangentMode: 0
+    - time: .136354148
+      value: -.0481249318
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  enemySpawnCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: .00999999978
+      inSlope: .140000001
+      outSlope: .140000001
+      tangentMode: 10
+    - time: 1
+      value: .150000006
+      inSlope: .140000001
+      outSlope: .140000001
+      tangentMode: 10
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  debrisPrefabs: []
+  islandPrefabs: []
+  cloudPrefabs: []
+  enemyPrefabs: []
+  enemyTowerPrefab: {fileID: 11474086, guid: be532285493694748b31db82fcc6e363, type: 2}
